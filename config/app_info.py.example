@@ -1,0 +1,21 @@
+apps = {
+    "app1": {
+        "host": "",
+        "username": "",
+        "pemloc": "",
+        "logloc": "",
+        "logname": "",
+        "nytlead": "",
+    },
+    "app2": {
+        "host": "",
+        "username": "",
+        "pemloc": "",
+        "logloc": "",
+        "logname": ",
+        "nytlead": ""
+    },
+}
+
+user=""
+pass=""
